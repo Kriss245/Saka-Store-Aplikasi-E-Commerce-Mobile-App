@@ -189,15 +189,15 @@ class _ProdukListScreenState extends State<ProdukListScreen> {
                   controller: _pageController,
                   children: [
                     Image.network(
-                      'https://i.imgur.com/Sypfg7i.png',
+                      'https://i.imgur.com/JcQ2ryS.png',
                       fit: BoxFit.cover,
                     ),
                     Image.network(
-                      'https://i.imgur.com/ot9Rc2A.png',
+                      'https://i.imgur.com/NRxSYsG.png',
                       fit: BoxFit.cover,
                     ),
                     Image.network(
-                      'https://i.imgur.com/IbMKDKh.png',
+                      'https://i.imgur.com/wM1LRDr.png',
                       fit: BoxFit.cover,
                     ),
                   ],
