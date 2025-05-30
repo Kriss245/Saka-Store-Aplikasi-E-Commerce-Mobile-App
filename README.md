@@ -38,8 +38,9 @@
 1. Clone repository ini  
    `git clone https://github.com/username/Saka-Store-Aplikasi-E-Commerce-Mobile-App.git`
 2. Setup database MySQL dengan import file SQL yang disediakan
-3. Konfigurasi koneksi database di aplikasi
-4. Jalankan aplikasi dan mulai eksplorasi fitur-fiturnya!
+3. File `produk.php` berada di file `htdocs` pada XAMPP.
+4. Konfigurasi koneksi database di aplikasi
+5. Jalankan aplikasi dan mulai eksplorasi fitur-fiturnya!
 
 ---
 
