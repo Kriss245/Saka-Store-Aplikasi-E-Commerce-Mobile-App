@@ -1,6 +1,6 @@
 # 🛍️ Saka-Store — Aplikasi E-Commerce Mobile Fashion
 
-Selamat datang di **Saka-Store**, aplikasi e-commerce mobile yang dirancang khusus untuk memudahkan kamu berbelanja produk fashion favorit dengan fitur lengkap dan pengalaman yang menyenangkan!
+> Selamat datang di **Saka-Store**, aplikasi e-commerce mobile yang dirancang khusus untuk memudahkan kamu berbelanja produk fashion favorit dengan fitur lengkap dan pengalaman yang menyenangkan!
 
 ---
 
