@@ -1,4 +1,5 @@
-https://imgur.com/undefined
+<p align="center"><img src="https://imgur.com/c23ATm6.png" width="500"></p>
+
 # 🛍️ Saka-Store — Aplikasi E-Commerce Mobile Fashion
 
 > Selamat datang di **Saka-Store**, aplikasi e-commerce mobile yang dirancang khusus untuk memudahkan kamu berbelanja produk fashion favorit dengan fitur lengkap dan pengalaman yang menyenangkan!
