@@ -1,16 +1,45 @@
-# saka_store
+# 🛍️ Saka-Store — Aplikasi E-Commerce Mobile Fashion
 
-A new Flutter project.
+Selamat datang di **Saka-Store**, aplikasi e-commerce mobile yang dirancang khusus untuk memudahkan kamu berbelanja produk fashion favorit dengan fitur lengkap dan pengalaman yang menyenangkan!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Fitur Utama
 
-A few resources to get you started if this is your first Flutter project:
+- 📚 **Katalog Produk**  
+  Jelajahi koleksi fashion terbaru dan terlengkap dengan tampilan yang user-friendly.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ⭐ **Favorit**  
+  Simpan produk favoritmu supaya mudah dicari dan dibeli kapan saja.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🛒 **Keranjang Belanja**  
+  Kelola produk yang ingin kamu beli dengan mudah dan efisien.
+
+- 💳 **Checkout Cepat & Aman**  
+  Proses pembayaran yang simpel dan terpercaya agar transaksi kamu lancar tanpa hambatan.
+
+- 🔄 Fitur tambahan yang terus dikembangkan untuk pengalaman berbelanja yang maksimal!
+
+---
+
+## 🛠️ Teknologi
+
+- **Database**: MySQL  
+  Menyimpan semua data produk, pengguna, dan transaksi secara terstruktur dan aman.
+
+- **Platform**: Mobile App (Android/iOS)  
+  User interface yang responsif dan intuitif untuk memanjakan pengguna.
+  
+---
+
+## 🚀 Instalasi & Setup
+1. Clone repository ini  
+   `git clone https://github.com/username/Saka-Store-Aplikasi-E-Commerce-Mobile-App.git`
+2. Setup database MySQL dengan import file SQL yang disediakan
+3. Konfigurasi koneksi database di aplikasi
+4. Jalankan aplikasi dan mulai eksplorasi fitur-fiturnya!
+
+---
+
+## 📄 Lisensi
+MIT License
