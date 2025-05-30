@@ -37,10 +37,13 @@
 ## 🚀 Instalasi & Setup
 1. Clone repository ini  
    `git clone https://github.com/username/Saka-Store-Aplikasi-E-Commerce-Mobile-App.git`
-2. Setup database MySQL dengan import file SQL yang disediakan
-3. File `produk.php` berada di file `htdocs` pada XAMPP.
-4. Konfigurasi koneksi database di aplikasi
-5. Jalankan aplikasi dan mulai eksplorasi fitur-fiturnya!
+2. Install XAMPP atau software MySQL Server lainnya.
+3. Buat database MySQL baru dengan nama `dbsakastore`.
+4. Import file `ddbsakastore.sql` yang tersedia tersebut melalui phpMyAdmin.
+3. Setup database MySQL dengan import file SQL yang disediakan
+4. File `produk.php` berada di file `htdocs` pada XAMPP.
+5. Konfigurasi koneksi database di aplikasi
+6. Jalankan aplikasi dan mulai eksplorasi fitur-fiturnya!
 
 ---
 
