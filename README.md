@@ -42,4 +42,5 @@
 ---
 
 ## 📄 Lisensi
-MIT License
+Proyek ini dirilis di bawah MIT License.
+Bebas digunakan untuk keperluan pribadi maupun komersial dengan atribusi yang sesuai.
