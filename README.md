@@ -41,7 +41,7 @@
 3. Buat database MySQL baru dengan nama `dbsakastore`.
 4. Import file `ddbsakastore.sql` yang tersedia tersebut melalui phpMyAdmin.
 3. Setup database MySQL dengan import file SQL yang disediakan
-4. File `produk.php` berada di file `htdocs` pada XAMPP.
+4. File `produk.php` berada di file `htdocs` pada folder XAMPP.
 5. Konfigurasi koneksi database di aplikasi
 6. Jalankan aplikasi dan mulai eksplorasi fitur-fiturnya!
 
